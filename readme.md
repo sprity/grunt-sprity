@@ -65,12 +65,12 @@ module.exports = function(grunt) {
 * **out:**               path of directory to write sprite file to  [*Default:* process.cwd()]
 * **base64:**            inlines base64 encoded sprites in the style file
 * **cssPath:**           path or url of sprites on the web server used to reference the sprite in the styles (relative or absolute path or full url)  [*Default:* ../images]
-* **dimension:**         used dimensions for the sprite. A combination of ratio and dpi. Read more about dimensions: [How to specify dimensions](#how-to-specify-dimensions)
-* **engine**             image processing engine.  Read more about engines: [Image processing engines](#image-processing-engines) [*Default:* lwip]
+* **dimension:**         used dimensions for the sprite. A combination of ratio and dpi. Read more about dimensions: [How to specify dimensions](https://github.com/sprity/sprity#how-to-specify-dimensions)
+* **engine**             image processing engine.  Read more about engines: [Image processing engines](https://github.com/sprity/sprity#image-processing-engines) [*Default:* lwip]
 * **format**             output format of the sprite (Depends on what engine is used) [*Default:* png when used with lwip]
 * **name**               name of sprite file without file extension [*Default:* sprite]
-* **processor**          style processing module. Read more about style processors: [Style processors](#style-processors) [css]
-* **template**           output template file, overrides processor option. Read more about templates: [Templates](#templates)
+* **processor**          style processing module. Read more about style processors: [Style processors](https://github.com/sprity/sprity#style-processors) [css]
+* **template**           output template file, overrides processor option. Read more about templates: [Templates](https://github.com/sprity/sprity#templates)
 * **style**              file to write css to, if omitted no css is written
 * **background**         background color of the sprite in hex  [*Default:* #FFFFFF]
 * **cachebuster**        appends a "cache buster" to the background image in the form "?<...>" (Boolean)  [*Default:* false]
