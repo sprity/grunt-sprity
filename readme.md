@@ -1,5 +1,7 @@
 # grunt-sprity
 
+[![NPM version](https://badge.fury.io/js/grunt-sprity.svg)](http://badge.fury.io/js/grunt-sprity) [![Build Status](https://travis-ci.org/sprity/grunt-sprity.svg?branch=master)](https://travis-ci.org/sprity/grunt-sprity) [![Dependencies](https://david-dm.org/sprity/grunt-sprity.svg)](https://david-dm.org/sprity/grunt-sprity)
+
 > Grunt task for generating css sprites and corresponding stylesheets with [sprity](https://npmjs.org/package/sprity).
 
 ## Getting Started
