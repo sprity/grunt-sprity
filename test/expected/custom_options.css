@@ -1,0 +1,28 @@
+.icon {
+  background-image: url("../images/custom_options.png");
+}
+.icon-camera {
+  background-position: 0 0;
+  width: 138px;
+  height: 138px;
+}
+.icon-cart {
+  background-position: 0 138;
+  width: 138px;
+  height: 138px;
+}
+.icon-command {
+  background-position: 0 276;
+  width: 138px;
+  height: 138px;
+}
+.icon-font {
+  background-position: 0 414;
+  width: 138px;
+  height: 138px;
+}
+.icon-jpg {
+  background-position: 0 552;
+  width: 522px;
+  height: 522px;
+}
