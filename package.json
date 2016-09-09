@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aslansky/grunt-sprity.git"
+    "url": "git://github.com/sprity/grunt-sprity.git"
   },
   "bugs": {
     "url": "https://github.com/aslansky/grunt-sprity/issues"
